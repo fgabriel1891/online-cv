@@ -14,12 +14,12 @@ style: styles-6
 
 #Profile information
 name: Gabriel Muñoz
-tagline: Biologist, Computational Ecologist
+tagline: Biologist, Ecologist
 pic: profilepic.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
 email: fgabriel1891@gmail.com
-phone: +31 636260739
+phone: +593 96089080
 #website: blog.webjeda.com #do not add http://
 #linkedin: alandoe
 github: fgabriel1891
